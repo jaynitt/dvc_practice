@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import logging
 
 # Create a sample DataFrame with column names
 data = {'Name': ['Alice', 'Bob', 'Charlie'],
